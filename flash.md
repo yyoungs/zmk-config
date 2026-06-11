@@ -24,5 +24,8 @@ sudo cp ~/Downloads/firmware/demeter_right-nice_nano_v2-zmk.uf2 /tmp/nicenano/
 ```
 ls /tmp/nicenano/
 ```
-
+1. Unmount the drive
+```
+sudo umount /tmp/nicenano
+```
 1. unplug the board.
